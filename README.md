@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Moeez</h1>
+<h1 align="center">Hi 👋, I'm Moeez Tariq</h1>
 <h3 align="center">A passionate Full Stack developer from Pakistan with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success. </h3>
 
 - 🌱 I’m currently learning **Web 3, Blockchain(Solana)**
